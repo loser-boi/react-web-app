@@ -7,10 +7,10 @@ For the buttons and other styling components material-ui was made use of. Materi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![]Screenshots/1.jpg
-![]Screenshots/2.jpg
-![]Screenshots/3.jpg
-![]Screenshots/4.jpg
+![](Screenshots/1.jpg)
+![](Screenshots/2.jpg)
+![](Screenshots/3.jpg)
+![](Screenshots/4.jpg)
 ## Available Scripts
 
 In the project directory, you can run:
